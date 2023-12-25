@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789160901919",
+    "project_id": "todo-app-e0ad8",
+    "storage_bucket": "todo-app-e0ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789160901919:android:fa208617f977d1cb57842a",
+        "android_client_info": {
+          "package_name": "com.example.bikemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789160901919-onlpcuivq8cadjuiiulo121jgjksote2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WlanR2cgOOWs4MZJxf6z360eQx2-iYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789160901919-onlpcuivq8cadjuiiulo121jgjksote2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
